@@ -66,5 +66,3 @@ Support Vector Regression proves to be an effective approach for salary predicti
 
 ---
 
-## 👩‍💻 Author
-Poojitha
